@@ -50,9 +50,7 @@ In the competitive airline industry, **passenger satisfaction** is a key driver 
 
 ## Dataset
 
-* Source: Airline Passenger Satisfaction dataset (CSV)
+* Source: Airline Passenger Satisfaction dataset (CSV) from kaggle
+  [Airline Passenger Satisfaction](https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction/data)
 * Size: 129,880 rows × 24 columns
-* Key features: سatisfaction, travel class, customer type, services ratings, flight delays, demographics, flight distance.
-
----
-؟
+* Key features: satisfaction, travel class, customer type, services ratings, flight delays, demographics, flight distance.
